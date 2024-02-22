@@ -1,0 +1,23 @@
+{
+  "name": "awhaw.xyz",
+  "version": "0.0.0",
+  "description": "A repo for my personal website files",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelrahmanwalidhassan/awhaw.xyz.git"
+  },
+  "keywords": [
+    "WebSite",
+    "Portfolio"
+  ],
+  "author": "Abdelrahmanwalidhassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdelrahmanwalidhassan/awhaw.xyz/issues"
+  },
+  "homepage": "https://github.com/Abdelrahmanwalidhassan/awhaw.xyz#readme"
+}
